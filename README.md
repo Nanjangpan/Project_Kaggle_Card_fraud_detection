@@ -1,7 +1,8 @@
 # Ybigta-Team-project
 Ybigta Team project <br>
-[ieee-fraud-detectio](https://www.kaggle.com/c/ieee-fraud-detection)
-캐글 ieee-fraud-detection을 분석하는 프로젝트
+
+캐글 ieee-fraud-detection을 분석하는 프로젝트 <br>
+[캐글 링크](https://www.kaggle.com/c/ieee-fraud-detection)  <br>
 
 final data : final_train_merged.csv, final_test_merged.csv, pca_test_all_c_fraud.csv
 
